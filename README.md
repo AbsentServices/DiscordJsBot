@@ -1,7 +1,7 @@
 # DiscordJsBot
 ### WARNNING!! This bot is no longer in use! Use as you wish.
 
-DiscordJSbot was made for one of my community discords. But we didn't end up using it. So instead of it going to waste. I am here re-leasing it for y'all. I have used Visual Studio Code, So the dependencies you need to install are below. Also make sure you read the read-me file for the bot to work.
+DiscordJSbot was made for one of my community discords. But we didn't end up using it. So instead of it going to waste. Feel free to have fun with it.
 
 
 ### Commands
