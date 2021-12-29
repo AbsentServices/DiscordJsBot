@@ -1,8 +1,8 @@
 # DiscordJsBot
-### WARNNING!! This bot is no longer in use! Use as you wish.
-
+### WARNNING!! This bot is read only. We are no longer working on this project.
+___
 DiscordJSbot was made for one of my community discords. But we didn't end up using it. So instead of it going to waste. Feel free to have fun with it.
-
+___
 
 ### Commands
 - **8ball**  *Ask the bot a question, The Bot will asnwer it*
@@ -27,3 +27,10 @@ DiscordJSbot was made for one of my community discords. But we didn't end up usi
 - **say** *have the bot say something*
 - **status** *set the bots status*
 - **welcomeroles** *setup welcome roles or roles for people to join*
+___
+##### Links
+ [Discord](https://discord.gg/M5aaVRYgFN)
+
+ [Website](http://absentservices.xyz/)
+ 
+[Wiki/Docs](http://docs.absentservices.xyz)
