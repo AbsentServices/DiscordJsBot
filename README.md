@@ -31,7 +31,7 @@ ___
 - **status** *set the bots status*
 - **welcomeroles** *setup welcome roles or roles for people to join*
 ___
-##### Links
+### Links
  [Discord](https://discord.gg/M5aaVRYgFN)
 
  [Website](http://absentservices.xyz/)
